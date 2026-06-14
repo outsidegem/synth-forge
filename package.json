@@ -1,0 +1,14 @@
+{
+  "name": "@digital-mineral/synth-forge",
+  "version": "0.1.0",
+  "description": "Edge-native synthetic data generator and PII anonymizer for localized agent training",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
